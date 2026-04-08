@@ -7,9 +7,7 @@ KKEKKE PASTELERÍA
   
   <div class="box">
     🎉 ¡Compra completada!
-    
     No hay ningún producto
-    
     Pero hiciste clic sin pensarlo (ahora dóname)
     
   </div>
